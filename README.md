@@ -6,6 +6,6 @@ A fully functional system that requires a login and allows employees to carry ou
 - Viewing deliveries
 - Changing passwords if required
 
-System was created using Python connected to an SQL database, the GUI used the module Tkinter
+System was created using Python connected to an SQLite database (using DB Browser), the GUI used the module Tkinter
 
 Still room for improvements and new features
